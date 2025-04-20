@@ -19,7 +19,7 @@ bash <(curl -s https://raw.githubusercontent.com/noimc/minecraftserver/refs/head
 Note: On some systems, it's required to be already logged in as root before executing the one-line command.
 
 Here is a YouTube video that illustrates the installation process.
-[YouTube Video]()
+[YouTube Video](https://youtu.be/3z-U3rWII68?si=ZpwwnxstfVrgjtmI)
 
 # Contributors ✨
 Copyright (C) 2018 - 2025, Noi MC, The PaperMC Team!
