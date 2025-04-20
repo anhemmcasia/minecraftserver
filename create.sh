@@ -35,4 +35,5 @@ sleep 2
 clear
 echo "🄽🄾🄸 🄼🄲"
 echo "Start"
+rm create.sh
 sh start.sh
