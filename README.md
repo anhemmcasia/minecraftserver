@@ -5,10 +5,10 @@
 - Easily create Papermc server
 - No need to do anything too complicated
 - Pre-installed:
-+ ViaVersions
-+ ViaBackwards
-+ Online mode: False
-+ Eula: true
+  ViaVersions
+  ViaBackwards
+  Online mode: False
+  Eula: true
 
 # Help and support
 You can join the [Discord Chat](https://dsc.gg/noimc).
