@@ -1,5 +1,5 @@
 # 🐦 Minecraft server installer
-Đây là mã không chính thức được tạo bởi fans: Noi MC
+Đây là mã không chính thức được tạo bởi fan: Noi MC
 
 # Features
 - Easily create Papermc server
