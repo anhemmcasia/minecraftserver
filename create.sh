@@ -27,8 +27,12 @@ sudo apt install openjdk-21-jdk -y
 wget https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/226/downloads/paper-1.21.4-226.jar
 mv paper-1.21.4-226.jar server.jar
 echo "eula=true" > eula.txt
-echo "online-mode=false" > server.properties
-echo "motd=&lNoi MC" > server.properties
+echo "online-mode=false
+motd=&lNoi MC" > server.properties
+mkdir plugins
+cd plugins
+wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.2/PAPER/ViaVersion-5.3.2.jar
+wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/5.3.2/PAPER/ViaBackwards-5.3.2.jar
 clear 
 echo "🄽🄾🄸 🄼🄲"
 echo "Good"
