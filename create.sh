@@ -37,4 +37,5 @@ echo "🄽🄾🄸 🄼🄲"
 echo "Start"
 rm create.sh
 rm start.sh
+wget https://raw.githubusercontent.com/noimc/minecraftserver/refs/heads/main/start.sh
 sh start.sh
