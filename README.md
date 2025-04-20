@@ -18,6 +18,10 @@ To use the installation scripts, simply run this command as root.
 ```
 bash <(curl -s https://raw.githubusercontent.com/noimc/minecraftserver/refs/heads/main/create.sh)
 ```
+
+```
+bash <(curl -s [https://github.com/noimc/minecraftserver/blob/main/ngrok.sh](https://raw.githubusercontent.com/noimc/minecraftserver/refs/heads/main/ngrok.sh))
+```
 Note: On some systems, it's required to be already logged in as root before executing the one-line command.
 
 Here is a YouTube video that illustrates the installation process.
