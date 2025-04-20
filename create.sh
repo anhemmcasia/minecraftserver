@@ -42,10 +42,6 @@ echo "🄽🄾🄸 🄼🄲"
 echo "Start"
 sleep 1
 echo "Loading ."
-sleep 1
-echo "Loading .."
-sleep 1
-echo "Loading ..."
 sleep 3
 rm create.sh
 rm start.sh
@@ -53,19 +49,14 @@ wget https://raw.githubusercontent.com/noimc/minecraftserver/refs/heads/main/sta
 clear
 echo "🄽🄾🄸 🄼🄲"
 echo "Start"
-sleep 1
 echo "Loading ."
-sleep 1
 echo "Loading .."
 sleep 1
 clear
 echo "🄽🄾🄸 🄼🄲"
 echo "Start"
-sleep 1
 echo "Loading ."
-sleep 1
 echo "Loading .."
-sleep 1
 echo "Loading ..."
 sleep 5
 sh start.sh
