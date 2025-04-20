@@ -30,8 +30,8 @@ echo "eula=true" > eula.txt
 echo "online-mode=false
 motd=&lNoi MC" > server.properties
 mkdir plugins
-wget --output-dir plugins https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.2/PAPER/ViaVersion-5.3.2.jar
-wget --output-dir plugins https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/5.3.2/PAPER/ViaBackwards-5.3.2.jar
+wget -P ~/plugins https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.2/PAPER/ViaVersion-5.3.2.jar
+wget -P ~/plugins https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/5.3.2/PAPER/ViaBackwards-5.3.2.jar
 clear 
 echo "🄽🄾🄸 🄼🄲"
 echo "Good"
