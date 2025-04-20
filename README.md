@@ -5,8 +5,6 @@
 - Easily create Papermc server
 - No need to do anything too complicated
 - Pre-installed:
-  - ViaVersions
-  - ViaBackwards
   - Online mode: False
   - Eula: true
 
@@ -17,10 +15,6 @@ You can join the [Discord Chat](https://dsc.gg/noimc).
 To use the installation scripts, simply run this command as root.
 ```
 bash <(curl -s https://raw.githubusercontent.com/noimc/minecraftserver/refs/heads/main/create.sh)
-```
-
-```
-bash <(curl -s [https://github.com/noimc/minecraftserver/blob/main/ngrok.sh](https://raw.githubusercontent.com/noimc/minecraftserver/refs/heads/main/ngrok.sh))
 ```
 Note: On some systems, it's required to be already logged in as root before executing the one-line command.
 
