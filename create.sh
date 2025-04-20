@@ -13,7 +13,7 @@ clear
 echo "🄽🄾🄸 🄼🄲"
 echo "Choose whether to agree to create a server or not."
 echo "Enter/Ctrl+C"
-read ">> "
+read -p ">> "
 sleep 2
 clear
 echo "🄽🄾🄸 🄼🄲"
@@ -30,9 +30,9 @@ echo "eula=true" > eula.txt
 echo "online-mode=false
 motd=&lNoi MC" > server.properties
 mkdir plugins
-cd plugins
-wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.2/PAPER/ViaVersion-5.3.2.jar
-wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/5.3.2/PAPER/ViaBackwards-5.3.2.jar
+wget --output-dir plugins -O https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.2/PAPER/ViaVersion-5.3.2.jar
+wget --output-dir plugins -O https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/5.3.2/PAPER/ViaBackwards-5.3.2.jar
+cd 
 clear 
 echo "🄽🄾🄸 🄼🄲"
 echo "Good"
