@@ -36,4 +36,5 @@ clear
 echo "🄽🄾🄸 🄼🄲"
 echo "Start"
 rm create.sh
+rm start.sh
 sh start.sh
